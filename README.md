@@ -41,8 +41,8 @@
 ---
 
 ## 🔗 Connect With Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: viveksai117@gmail.com
+- 💼 LinkedIn:   
 - 🌐 Portfolio: https://your-website.com  
 
 ---
