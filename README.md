@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Vivek Patyal</h1>
+<h1 align="center">Hi 👋, I'm Sai Vivek </h1>
 <h3 align="center">A Passionate Developer from India 🇮🇳</h3>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Student at Shoolini University  
+- 🎓 Student at Bahra University
 - 💻 Learning **Cloud (AWS / Azure)** & **Web Development**  
 - 🔥 Interested in **Backend + DevOps**  
-- 🌱 Currently learning **Python, AWS Lambda, DynamoDB**  
+- 🌱 Currently learning **Python, AWS Lambda, DynamoDB, Jenkins, DevOps, Linux**  
 - ⚡ Fun fact: I love building real-world projects  
 
 ---
@@ -15,7 +15,7 @@
 ## 🛠️ Tech Stack
 - 💻 Languages: `Python`, `JavaScript`, `HTML`, `CSS`
 - ☁️ Cloud: `AWS`, `Azure`
-- 🗄️ Database: `DynamoDB`, `MySQL`
+- 🗄️ Database: `DynamoDB`, `MySQL`, Cosmos DB 
 - ⚙️ Tools: `Git`, `GitHub`, `VS Code`
 
 ---
@@ -42,14 +42,14 @@
 
 ## 🔗 Connect With Me
 - 📧 Email: viveksai117@gmail.com
-- 💼 LinkedIn:   
+- 💼 LinkedIn:   www.linkedin.com/in/sai-vivek-68bb9528b
 - 🌐 Portfolio: https://your-website.com  
 
 ---
 
 ## 🚀 Projects
-- 🔹 Student Registration System (AWS Lambda + DynamoDB)  
-- 🔹 More coming soon...  
+- 🔹 Student Registration System (AWS Lambda + DynamoDB + API Gateway)  
+- 🔹 Static Website Hosting on AWS using EC2 and Application Load Balancer
 
 ---
 
